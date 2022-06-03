@@ -1,0 +1,32 @@
+.card {
+  width: 16rem;
+  height: 23rem;
+}
+
+.zoom:hover {
+  transition: 0.4s ease;
+  transform: scale(1.04);
+}
+
+body {
+  background-color: #1652a0;
+}
+
+header {
+  width: 100%;
+  height: 120px;
+  background-color: #27b4be;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: #27b4be;
+}
+
+.card-text {
+  color: white;
+}
+
+.card-title {
+  color: white;
+}
